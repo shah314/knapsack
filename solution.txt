@@ -1,0 +1,9 @@
+// greedy 618053
+// knapsack size 20908
+// optimum  618273 (branch and bound 45 seconds)
+
+Number of Items: 5000
+Range of Weights: [1 ,4999]
+Total Weight: 12320013
+Knapsack Capacity: 20908
+Capacity / TotalWeight: 0.0016970761313320044
