@@ -9,6 +9,13 @@
   DELIMITER
   MAX_WEIGHT
   NUMBER_OBJECTS</pre>
-  
+<b>Cite this code:</b>
+<pre>
+@misc{shah2014bknapsack,
+  title={Branch and Bound for the 0/1 Knapsack Problem},
+  author={Shah, Shalin},
+  year={2014}
+}
+</pre>
 <p>Other instances are available <a href="https://people.sc.fsu.edu/~jburkardt/datasets/knapsack_01/knapsack_01.html">here</a>.</p>
 <p>(The code is written in an old version of Java but compiles and runs fine.)</p>
