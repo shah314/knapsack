@@ -15,7 +15,7 @@
 <b>Cite this code:</b>
 <pre>
 @misc{shah2014bknapsack,
-  title={Branch and Bound for the 0/1 Knapsack Problem},
+  title={Branch and Bound for the 0/1 Knapsack Problem using Lagrangian Relaxation},
   author={Shah, Shalin},
   year={2014}
 }
