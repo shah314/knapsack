@@ -104,9 +104,9 @@ public class KNode implements Comparable
         KNode o = (KNode)obj;
 
         if(o.maxValue() > this.maxValue())
-            return -1;
-        else if(o.maxValue() < this.maxValue())
             return 1;
+        else if(o.maxValue() < this.maxValue())
+            return -1;
         
         if(knapsack.equals(o.getKnapsackContents()) && o.getIndex() == index)
             return 0;
